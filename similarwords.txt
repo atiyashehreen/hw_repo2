@@ -1,0 +1,1 @@
+1. repo, folder, directory 2. HOME, root, ~ 3. pull, download, clone 4. push, upload
